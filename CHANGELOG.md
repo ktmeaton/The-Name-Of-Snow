@@ -11,8 +11,8 @@ and this project "attempts" to adhere to [Semantic Versioning](http://semver.org
 ### Added
 - Created Repository
 - README.md and CHANGELOG.md 
-- Directories musescore, pdf, audio
-- MuseScore 3 File
+- Directories musescore, pdf, audio, midi
+- MuseScore 3 File, PDF Score, MP3 audio, MIDI 
 
 
 https://github.com/ktmeaton/the-name-of-snow
