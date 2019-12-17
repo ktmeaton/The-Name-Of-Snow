@@ -1,2 +1,2 @@
-# the-name-of-snow
-The Name of Snow MuseScore
+# The Name of Snow
+Composition Repository
