@@ -1,8 +1,10 @@
 # The Name of Snow
 Piano Composition: The Name of Snow
 
-## PDF Preview
-This section will contain an image preview of the pdf (first few lines)
+## Score
+[View the Score]
+(https://github.com/ktmeaton/the-name-of-snow/tree/master/pdf/The_Name_Of_Snow.pdf)
+<img src="https://github.com/ktmeaton/the-name-of-snow/tree/master/images/The_Name_Of_Snow.pdfThe_Name_Of_Snow_score_preview.jpg" alt="The_Name_Of_Snow_score_preview" width="700px"/>
 
 ## Audio
 Audio player (mp3) but only in the static site?
