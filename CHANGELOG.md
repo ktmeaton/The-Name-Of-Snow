@@ -14,10 +14,11 @@ and this project "attempts" to adhere to [Semantic Versioning](http://semver.org
 
 ### Added
 - Created Repository
-- README.md and CHANGELOG.md 
+- README.md and CHANGELOG.md
 - Directories musescore, pdf, audio, midi
-- MuseScore 3 File, PDF Score, MP3 audio, MIDI 
+- MuseScore 3 File, PDF Score, MP3 audio, MIDI
 - First Draft: Intro, Verse, Pre-Chorus, Chorus, Bridge, Outro
+- Length: 6 pages, 4:04
 
 [Development]: https://github.com/ktmeaton/the-name-of-snow/compare/HEAD...dev
 [v0.1.0]: https://github.com/ktmeaton/the-name-of-snow/compare/0a0953c...HEAD
