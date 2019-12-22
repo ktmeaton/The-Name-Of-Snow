@@ -6,6 +6,7 @@ and this project "attempts" to adhere to [Semantic Versioning](http://semver.org
 
 ## To Do
 - Pedal Lines
+- Edit down for length (-30sec)
 
 ## [Development]
 
