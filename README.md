@@ -1,2 +1,2 @@
 # The Name of Snow
-Composition Repository
+Piano Composition: The Name of Snow
