@@ -2,7 +2,7 @@
 Piano Composition: The Name of Snow
 
 ## Score
-[View the Score](https://github.com/ktmeaton/the-name-of-snow/blob/master/pdf/The_Name_of_Snow.pdf)  
+[View the Full Score](https://github.com/ktmeaton/the-name-of-snow/blob/master/pdf/The_Name_of_Snow.pdf)  
 <img src="https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_score_preview.JPG" alt="The_Name_Of_Snow_score_preview" width="700px"/>
 
 ## Audio
