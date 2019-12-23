@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
-layout: single
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
