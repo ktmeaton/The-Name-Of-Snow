@@ -1,6 +1,4 @@
-<img src="https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_snowflake.png" alt="The_Name_Of_Snow_snowflake" width="200px"/>  
-
-# The Name of Snow
+# ![The Name of Snow](https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_snowflake.png)  
 Piano Composition: The Name of Snow  
 
 ## Audio
