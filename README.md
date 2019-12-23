@@ -8,13 +8,7 @@
 This is an experiment in Open Source music and versioning music production :)  
 
 ### Download
-![zip archive](https://cdn3.iconfinder.com/data/icons/file-format-outline/512/zip_.zip_file_file_format_extension_archive_compression_format_-512.png){:height="10px" width="10px"}  
-
-https://github.com/ktmeaton/The-Name-Of-Snow/archive/v0.1.0.zip
-```
-git clone https://github.com/ktmeaton/The-Name-Of-Snow.git   
-cd The-Name-Of-Snow
-```   
+[![zip archive](https://raw.githubusercontent.com/ktmeaton/The-Name-Of-Snow/master/images/media_player_mp3.png)](https://github.com/ktmeaton/The-Name-Of-Snow/archive/v0.1.0.zip): Download Project (zip)  
 
 ## Audio
 [![The_Name_Of_Snow_mp3](https://raw.githubusercontent.com/ktmeaton/The-Name-Of-Snow/master/images/media_player_mp3.png)](https://drive.google.com/open?id=11rErxMT0VbbQDg9pIrMq8wq9p0kJWOKX)
