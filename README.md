@@ -8,8 +8,10 @@
 This is an experiment in Open Source music and versioning music production :)  
 
 ## Download
-![zip archive](https://raw.githubusercontent.com/ktmeaton/The-Name-Of-Snow/master/images/zip-icon.png)[ Download Project (zip)](https://github.com/ktmeaton/The-Name-Of-Snow/archive/v0.1.0.zip)
+Download the latest release:  
+![zip archive](https://raw.githubusercontent.com/ktmeaton/The-Name-Of-Snow/master/images/zip-icon.png)[ Project Files (zip)](https://github.com/ktmeaton/The-Name-Of-Snow/archive/v0.1.0.zip)
 
+Or clone the GitHub repository:
 ```
 git clone https://github.com/ktmeaton/The-Name-Of-Snow.git   
 cd The-Name-Of-Snow
