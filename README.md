@@ -1,5 +1,5 @@
 # ![ktmeaton/the-name-of-snow](https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_logo.png)  
-[![GitHub (pre-)release](https://img.shields.io/badge/Release-v0.1.0-green.svg)](https://github.com/ktmeaton/the-name-of-snow/releases/tag/v0.1.0)  
+[![GitHub (pre-)release](https://img.shields.io/badge/Release-v0.1.0-green.svg)](https://github.com/ktmeaton/the-name-of-snow/releases/tag/v0.1.0)
 ![GitHub Music Piano](https://img.shields.io/badge/Music-piano-blue.svg)
 
 ## About
