@@ -10,7 +10,7 @@ Audio player (mp3) but only in the static site?
 
 ## Score
 [View the Full Score](https://github.com/ktmeaton/the-name-of-snow/blob/master/pdf/The_Name_of_Snow.pdf)  
-<img src="https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_score_preview.JPG" alt="The_Name_Of_Snow_score_preview" width="700px"/>
+<img src="https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_score_preview.jpg" alt="The_Name_Of_Snow_score_preview" width="700px"/>
 
 ## License
 Licensed under [CC BY 4.0](https://github.com/ktmeaton/the-name-of-snow/blob/master/LICENSE.md).
