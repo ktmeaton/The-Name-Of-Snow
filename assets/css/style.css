@@ -104,6 +104,7 @@ img {
 }
 
 header {
+  display:none;
   width:270px;
   float:left;
   position:fixed;
@@ -215,11 +216,13 @@ footer {
   }
 
   header a small {
-    display:none;
+    display:inline;
   }
 
   header ul {
-    display:none
+    position:absolute;
+    right:50px;
+    top:52px;
   }
 }
 
