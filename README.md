@@ -8,6 +8,7 @@
 This is an experiment in Open Source music and versioning music production :)  
 
 ### Download
+[![zip archive](https://cdn3.iconfinder.com/data/icons/file-format-outline/512/zip_.zip_file_file_format_extension_archive_compression_format_-512.png)](https://github.com/ktmeaton/The-Name-Of-Snow/archive/v0.1.0.zip)
 ```
 git clone https://github.com/ktmeaton/The-Name-Of-Snow.git   
 cd The-Name-Of-Snow
