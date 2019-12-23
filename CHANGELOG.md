@@ -21,5 +21,5 @@ and this project "attempts" to adhere to [Semantic Versioning](http://semver.org
 - First Draft: Intro, Verse, Pre-Chorus, Chorus, Bridge, Outro
 - Length: 6 pages, 4:04
 
-[Development]: https://github.com/ktmeaton/the-name-of-snow/compare/HEAD...dev
-[v0.1.0]: https://github.com/ktmeaton/the-name-of-snow/compare/0a0953c...HEAD
+[Development]: https://github.com/ktmeaton/The-Name-Of-Snow/compare/HEAD...dev
+[v0.1.0]: https://github.com/ktmeaton/The-Name-Of-Snow/compare/0a0953c...HEAD
