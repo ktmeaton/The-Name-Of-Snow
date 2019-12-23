@@ -23,4 +23,4 @@ cd the-name-of-snow
 Licensed under [CC BY 4.0](https://github.com/ktmeaton/the-name-of-snow/blob/master/LICENSE.md).
 
 ## Credits
-Author: [Katherine Eaton](https://github.com/ktmeaton) (ktmeaton@gmail.com)  
+Music by: [Katherine Eaton](https://github.com/ktmeaton) (ktmeaton@gmail.com)  
