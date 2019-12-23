@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
-title: The Name Of Snow
-subtitle: Piano Composition
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
