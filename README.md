@@ -1,5 +1,6 @@
 # The Name of Snow
-Piano Composition: The Name of Snow
+Piano Composition: The Name of Snow  
+
 <img src="https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_snowflake.png" alt="The_Name_Of_Snow_snowflake" width="200px"/>
 
 ## Audio
