@@ -1,4 +1,4 @@
-# ![ktmeaton/the-name-of-snow](https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_logo_small.png)  
+# ![ktmeaton/the-name-of-snow](https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_logo.png)  
 
 ## About
 Piano Composition: The Name of Snow  
