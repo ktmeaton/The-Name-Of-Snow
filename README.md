@@ -1,5 +1,6 @@
 # ![ktmeaton/the-name-of-snow](https://github.com/ktmeaton/the-name-of-snow/blob/master/images/The_Name_Of_Snow_logo.png)  
 [![GitHub (pre-)release](https://img.shields.io/badge/Release-v0.1.0-green.svg)](https://github.com/ktmeaton/the-name-of-snow/releases/tag/v0.1.0)  
+![GitHub Music Piano](https://img.shields.io/badge/Music-piano-blue.svg)
 
 ## About
 *The Name of Snow* is a contemporary piano composition. This repository contains all files associated with both the composition and performance process including: score files for [MuseScore](https://musescore.org/), PDF scoresheets, MIDI, and MP3 audio.
