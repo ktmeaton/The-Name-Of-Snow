@@ -5,5 +5,4 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: wide
       author_profile: false
