@@ -8,7 +8,7 @@
 This is an experiment in Open Source music and versioning music production :)  
 
 ## Audio
-[![The_Name_Of_Snow_mp3](https://raw.githubusercontent.com/ktmeaton/The-Name-Of-Snow/master/images/media_player_mp3.png)](https://drive.google.com/open?id=11rErxMT0VbbQDg9pIrMq8wq9p0kJWOKX)
+[![The_Name_Of_Snow_mp3](https://raw.githubusercontent.com/ktmeaton/The-Name-Of-Snow/master/images/media_player_mp3.png)](https://drive.google.com/file/d/11rErxMT0VbbQDg9pIrMq8wq9p0kJWOKX/view?usp=sharing)
 
 ## Score
 [![The_Name_Of_Snow_score](https://raw.githubusercontent.com/ktmeaton/The-Name-Of-Snow/master/images/The_Name_Of_Snow_score_preview.jpg)](https://github.com/ktmeaton/The-Name-Of-Snow/blob/master/pdf/The_Name_of_Snow.pdf)  
